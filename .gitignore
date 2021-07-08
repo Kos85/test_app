@@ -8,7 +8,4 @@
 .cxx
 local.properties
 
-.idea/libraries
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/modules
+.idea/
