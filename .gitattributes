@@ -1,1 +1,1 @@
-fastlane/Fastfile.java filter=git-crypt diff=git-crypt
+test_app/fastlane/Fastfile.java filter=git-crypt diff=git-crypt
