@@ -1,3 +1,4 @@
 fastlane/Fastfile filter=git-crypt diff=git-crypt
 fastlane/Appfile filter=git-crypt diff=git-crypt
 fastlane/TestFile filter=git-crypt diff=git-crypt
+fastlane/TestNull filter=git-crypt diff=git-crypt
