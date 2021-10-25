@@ -4,6 +4,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import org.chromium.base.Log;
+
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -11,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
+       Log.i("==>", "test");
     }
 }
